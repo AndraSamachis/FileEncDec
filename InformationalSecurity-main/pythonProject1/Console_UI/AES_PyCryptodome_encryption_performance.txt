@@ -1,0 +1,8 @@
+Framework: PyCryptodome
+Algorithm: AES
+Encryption Time: 3.0333995819091797 seconds
+Decryption Time: 0.0 seconds
+Ciphertext:
+b'\xd3\xd4\xf5G\x8f)e\xaf\xe4-2\xeb\x86\x0c\x94~\xe0\xe9X[\x9d\xeak\xb5,\x05\x1d4IZ\x962\x1b\x87\x85\x12h\x02k\x8f\xc9\x08\xe8f5\xe8\xd8M'
+Decrypted Content:
+Ana are mere si Gigel vine si cere.
